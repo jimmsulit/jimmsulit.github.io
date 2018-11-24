@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Exploration and Extrapolation"
+# title                    : "Data Exploration and Extrapolation"
 title_separator          : "-"
 name                     : "Jimson Sulit"
 description              : "A journey to the center of the data pipeline and beyond"
@@ -97,9 +97,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jimson Sulit"
+  name             : "Jim Sulit"
   avatar           : "/assets/images/sulit2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Systems Analyst, Travel Junkie, Data Analyst"
+  bio              : "Lead Data Analyst"
   location         : "Manila, Philippines"
   email            : 
   uri              :
@@ -108,9 +108,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "jimsonsulit1"
+  facebook         : "jmsulyt"
   foursquare       :
-  github           : "jimsonsulit"
+  github           : "jmsulyt"
   gitlab           :
   google_plus      :
   keybase          :
@@ -122,7 +122,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "jimsonsulit"
+  twitter          : "jmsulyt"
   vine             :
   weibo            :
   xing             :
