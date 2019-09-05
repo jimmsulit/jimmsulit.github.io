@@ -12,7 +12,7 @@ Hey, I'm Jim.
 
 I'm a data scientist and multifaceted problem solver with experience in building web and mobile products in fast-growing companies in the Philippines. I'm passionate about bridging the digital divide and providing people with information on how they can use technology to make their lives better.
 
-I'm currently at IBM Philippines working on the global data of the finance and operations teams, helping them identify strategies to streamline funnels and processes. Before that, I was at Globe Telecom and Computer Professionals Inc. as a systems analyst. 
+I'm currently at IBM Philippines working on the global data of the finance and operations teams, helping them identify strategies from data to streamline funnels and processes. Before that, I was at Globe Telecom and Computer Professionals Inc. as a systems analyst. 
 
 You'll find my work, personal and professional interests here. If you are interested in discussing data or collaborating professionally, you can connect with me on [LinkedIn](https://www.linkedin.com/in/jimsonsulit/)
 
