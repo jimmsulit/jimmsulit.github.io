@@ -10,11 +10,14 @@ comments: true
 
 In this guided project, we'll walk through how to work in the Jupyter environment. Jupyter is a widely used data science environment that combines a rich text editor with a console. The Jupyter project was originally called IPython, and focused on supporting just the Python language. Over time, support for other languages like R and Julia were added and the project was renamed to Jupyter.
 
+
 Jupyter notebook is built around a typical data analysis workflow and it's very different from a standard integrated development environment, such as Pycharm, which focuses more on just working with code. In Jupyter, you work with notebooks, which mix plain text, code, and code outputs in one view. 
+
 
 ## Birth Dates In the United States
 
 The raw data behind the story **Some People Are Too Superstitious To Have a Baby on Friday The 13th**, which you can read [here](https://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/).
+
 
 We'll be working with the data set from the Centers for Disease Control and Prevention's National Center for Health Statistics. The data set has the following structure:
 
@@ -25,6 +28,7 @@ Header | Definition
 `date_of_month` | Day number of the month
 `day_of_week` | Day of week, where 1 is Monday and 7 is Sunday
 `births` | Number of births
+
 
 We start by reading and opening the csv file. To fully use the capacity of Jupyter notebook, one must know how to properly load the data set. Moreover, running a code that assigns a value to a variable does not display any output. To generate the output that we want, we will use the print() function
 
@@ -82,6 +86,7 @@ lines_list
 
 One of the great features of Jupyter notebook is that you can edit and re-run cells as many times as you want. In real-world data analysis, it's common to try many different techniques on a dataset in order to explore what works. In these cases, being able to edit your code and re-run is critical, because it lets you iteratively analyze your data.
 
+
 For the next step, we want to know the total number of births for each unique day of the week. We will start by doing the following steps:  
 * Create an empty dictionary
 * Select all but the header row and assign to a new list object
@@ -120,5 +125,6 @@ days_counts
      '5': 6233657,
      '6': 4562111,
      '7': 4079723}
+
 
 This is how we get insights from our data, selecting the specific rows and iterating through a list of data to summarize our data set into new actionable insights that could be used as we go further in our data analysis. We will dive more in our data set in the coming projects. 
