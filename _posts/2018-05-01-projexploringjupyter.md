@@ -3,6 +3,7 @@
 layout: single
 title:  "Mini Project: Exploring Jupyter Notebook"
 date:   2018-05-01
+comments: true
 
 ---
 

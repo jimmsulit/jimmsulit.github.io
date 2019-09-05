@@ -3,6 +3,7 @@
 layout: single
 title:  "Why I joined the #100DaysOfCode challenge"
 date:   2018-04-25
+comments: true
 
 ---
 
