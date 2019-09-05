@@ -8,8 +8,6 @@ comments: true
 
 ---
 
-This is my blog page.
-
 {% for post in site.posts limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
