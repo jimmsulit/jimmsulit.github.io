@@ -8,8 +8,7 @@ comments: true
 ---
 
 When I started learning data science, I tried my best to keep my progress to myself. You could say that I bought into the idea that I should make progress in silence. No reason for me to tell the world that I am doing what I was doing. Besides, there is StackOverflow, Quora, and Reddit whenever I need a helping hand on the projects that I am working on. 
-
-
+<p>&nbsp. </p>
 It was alright for the first few months but when you are just copying and pasting bits of code from various sources, it comes to a point when it just becomes a routine. This impacts your understanding as it either regresses or gets forgotten over time. Progress in silence took the back seat when I realized that casually sharing the things that I have learned to my friends during our scheduled catchups helped me retain and fully understand the new concepts that I have been exposed to. 
 
 
