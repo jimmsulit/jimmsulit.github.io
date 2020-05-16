@@ -14,7 +14,7 @@ I'm a data scientist and multifaceted problem solver with experience in building
 
 I'm currently at IBM Philippines working on the global data of the finance and operations teams, helping them identify strategies from data to streamline funnels and processes. Before that, I was at Globe Telecom and Computer Professionals Inc. as a systems analyst. 
 
-You'll find my work, personal and professional interests here. If you are interested in discussing data or collaborating professionally, you can connect with me on [LinkedIn](https://www.linkedin.com/in/jimsonsulit/)
+You'll find my work, personal and professional interests here. If you are interested in discussing data or collaborating professionally, you can connect with me on [LinkedIn](https://www.linkedin.com/in/jimmsulit/)
 
 
 **About the Blog**
@@ -27,6 +27,8 @@ This site is built using [Jekyll](https://jekyllrb.com) using the [Minimal Mista
 
 
 ### Education:
+- **University of the Philippines** (Jan 2020 - Present)   
+  MSc. in Information Systems
 - **IBM** (October 2018 - September 2019)   
   IBM Data Science Professional Certificate
 - **Microsoft** (July 2018 - present)   
