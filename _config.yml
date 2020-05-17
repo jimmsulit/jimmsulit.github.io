@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Jim Sulit"
-  avatar           : "/assets/images/sulit2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/sulit.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
   location         : "Quezon City, Philippines"
   email            : 
